@@ -59,8 +59,8 @@
             return button;
         }
 
-        var rewindBtn = createButton('custom-rewind', 'https://iosmirror.cc/img/rewind2222.svg');
-        var forwardBtn = createButton('custom-forward', 'https://iosmirror.cc/img/forward22.svg?v7');
+        var rewindBtn = createButton('custom-rewind', 'atras.png');
+        var forwardBtn = createButton('custom-forward', 'adelante.png');
         var playBtn = createButton('custom-play', 'https://huggingface.co/spaces/cinemaxx/P3L1X/resolve/main/icons8-play-100.png', true);
 
         // Estilos específicos para el botón de Play (sin fondo ni borde)
